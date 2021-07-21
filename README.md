@@ -1,2 +1,2 @@
 # project.iniciante
-Manu lateral retrátil
+Menu lateral retrátil
